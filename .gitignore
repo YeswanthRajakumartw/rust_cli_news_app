@@ -1,4 +1,6 @@
-/target
+/*target
+news_api/target/
+
 *.env
 
 # Created by https://www.toptal.com/developers/gitignore/api/rust,intellij
@@ -16,7 +18,7 @@
 .idea/**/shelf
 
 # AWS User-specific
-.idea/**/aws.xml
+.idea/
 
 # Generated files
 .idea/**/contentModel.xml

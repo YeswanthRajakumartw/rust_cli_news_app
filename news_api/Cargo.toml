@@ -1,0 +1,15 @@
+[package]
+name = "news_api"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ureq = "2.4.0"
+thiserror = "1.0.31"
+colour = "0.6.0"
+serde_json = "1.0.82"
+serde = { version = "1.0.138", features = ["derive"] }
+termimad = "0.20.2"
+crossterm = "0.24.0"

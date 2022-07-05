@@ -1,0 +1,14 @@
+[package]
+name = "cli_news"
+version = "0.1.0"
+edition = "2021"
+
+description = "A small CLI News reading app"
+license = "MIT"
+authors = ["Yeswanth Rajkumar"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+news_api = { path = "./news_api" }
+dotenv = "0.15.0"
