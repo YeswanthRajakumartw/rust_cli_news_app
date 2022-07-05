@@ -1,7 +1,7 @@
 /*target
 news_api/target/
 
-*.env
+news_api/.env
 
 # Created by https://www.toptal.com/developers/gitignore/api/rust,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=rust,intellij
